@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 import { SafeAreaView, Text, StyleSheet, Dimensions } from "react-native";
 
@@ -27,3 +28,15 @@ const style = StyleSheet.create({
         
     }
 })
+=======
+import { View, Text } from "react-native"
+
+export default function Home({ }) {
+
+    return (
+        <View>
+            <Text>Working</Text>
+        </View>
+    )
+}
+>>>>>>> main
