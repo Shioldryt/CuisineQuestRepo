@@ -17,6 +17,13 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "fonts": [
+      {
+        "name": "Copenhagen",
+        "family": "Copenhagen",
+        "source": "./fonts/Copenhagen.ttf"
+      }
+    ],
     "ios": {
       "supportsTablet": true
     },
