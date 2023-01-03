@@ -1,5 +1,4 @@
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-<<<<<<< HEAD
 import Icon from 'react-native-vector-icons/AntDesign'
 
 import React from 'react';
@@ -28,16 +27,6 @@ export default function BottomTabs() {
         ),
         tabBarShowLabel: false
       }} />
-=======
-import Home from '../screens/Home';
-
-const Tab = createBottomTabNavigator();
-
-function MyTabs() {
-  return (
-    <Tab.Navigator>
-      <Tab.Screen name="Home" component={Home} />
->>>>>>> main
     </Tab.Navigator>
   );
 }
