@@ -21,7 +21,13 @@
       {
         "name": "Copenhagen",
         "family": "Copenhagen",
-        "source": "./fonts/Copenhagen.ttf"
+        "source": "./assets/fonts/Copenhagen.ttf"
+        
+      },
+      {
+        "name": "QuickKiss",
+        "family": "QuickKiss",
+        "source": "./assets/fonts/QuickKiss.ttf"
       }
     ],
     "ios": {
